@@ -1,0 +1,62 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "02B134B5-5394-444F-A535-EA731047C2BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 9.5,
+    "width": 14.5,
+    "x": 87,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5AE83EF8-D240-4B48-A36E-CF31220020B9"
+    },
+    {
+      "class": "rectangle",
+      "id": "FD040566-9F70-4F27-BEE8-C2B3C5861899"
+    },
+    {
+      "class": "rectangle",
+      "id": "29D31536-885E-4FBC-9FF7-54EDE4B22C34"
+    },
+    {
+      "class": "rectangle",
+      "id": "BCF95167-758E-4410-BFC6-E16F1E3E5A5B"
+    }
+  ],
+  "name": "Mobile Signal",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "1E67F934-5E0D-4BC1-9EB3-6B67B1CD11F2"
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "02B134B5-5394-444F-A535-EA731047C2BE"
+    }
+  },
+  "windingRule": 1
+}

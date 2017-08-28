@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "8FF81506-005E-4440-809C-95C49047D158",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 600,
+    "x": 100,
+    "y": 689
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3D232375-AB08-48D7-9737-EA9FACFF5E37"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ADFEBD87-C24D-4125-8B77-545DE2156B2E"
+    },
+    {
+      "class": "text",
+      "id": "319E4D38-7636-452C-8C96-D2879413DF8B"
+    }
+  ],
+  "name": "Birthday",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "DC337BCA-15FB-4EC1-9A29-0C3EAA44BDAB"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "A9D980F2-5D91-4F43-86CD-08055DC6C414"
+    }
+  }
+}

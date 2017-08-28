@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PklMT1NbX2NmaFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1ZDYW5jZWzTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAmAEYAVgBlWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVXTlNDb2xvciO/2j1woAAAANIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMQAAAAAAAF8QEVNGUHJvVGV4dC1SZWd1bGFy0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LWP0BBQgpDREVGR0hGW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0EASAACNANgAAAAAAAIASgBTSEgpKS6CAE9I0NU1OV05TQXJyYXmiTTnSNDVQUV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1BSOV8QEE5TUGFyYWdyYXBoU3R5bGXUVFVWCldYWVpVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTDAuNCAwLjQgMC40ABABgBaAGNJcCl1eVE5TSUQQAYAX0jQ1YGFcTlNDb2xvclNwYWNlomI5XE5TQ29sb3JTcGFjZdI0NWRlV05TQ29sb3KiZDnSNDU4Z6I4OdI0NWlqXxASTlNBdHRyaWJ1dGVkU3RyaW5noms5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W5vVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAIwAkwCbAKYAqwCtAK8AsQCzALgAugC8AL4AwADCAMkA6wD+AQYBDwEUATEBMwE1ATwBPwFBAUMBRgFIAUoBTAFiAXgBgQGVAZoBpQGuAcQByAHVAd4B4wH2AfkCDAIZAiUCMAJCAk8CYQJjAmUCbgJwAnICdwJ4AnoCfwKHAooCjwKpAq0CwALJAs8C3ALxAv4DAAMCAwQDCQMOAxADEgMXAyQDJwM0AzkDQQNEA0kDTANRA2YDaQN+A5ADkwOYAAAAAAAAAgEAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA5o="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2BDE5F94-9B4A-4A3F-A938-67E3A3EBA7E1",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 53,
+    "x": 16,
+    "y": 30
+  },
+  "glyphBounds": "{{0, 0}, {52, 19}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Left Action",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "1BDE2DA4-7388-4DBB-AB1C-C3D19EF17895"
+  },
+  "textBehaviour": 0
+}

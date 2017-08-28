@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "41B0C92F-6823-4A0B-A389-A58136EE711D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 106,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FF140208-09D5-4DDD-AEC7-DF04075001CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "577EBCB6-F429-442B-AB4D-F837BA2CD8BF"
+    },
+    {
+      "class": "text",
+      "id": "318CE795-EFDD-4889-B456-24E2571AD18E"
+    },
+    {
+      "class": "text",
+      "id": "1A67B626-CBFE-4EAC-9A39-FFBF31E1F80E"
+    },
+    {
+      "class": "text",
+      "id": "CCF67C09-1580-4BA7-90E6-8AD67D191CB0"
+    }
+  ],
+  "name": "Bars / Navigation Bar / Modal - Segmented Control - Combo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

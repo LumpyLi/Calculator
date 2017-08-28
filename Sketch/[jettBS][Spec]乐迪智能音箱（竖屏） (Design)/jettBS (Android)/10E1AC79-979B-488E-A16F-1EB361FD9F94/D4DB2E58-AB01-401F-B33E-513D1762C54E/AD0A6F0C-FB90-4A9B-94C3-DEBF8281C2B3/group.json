@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "AD0A6F0C-FB90-4A9B-94C3-DEBF8281C2B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 680,
+    "x": 60,
+    "y": 1152
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AE7748CE-1151-40A9-977A-65916201B06D"
+    },
+    {
+      "class": "group",
+      "id": "6CEC81F6-50CF-4BDE-BFFD-8F8BD3FF1AAB"
+    },
+    {
+      "class": "group",
+      "id": "0501B52C-7F4D-4D9C-8C20-640F533507B4"
+    },
+    {
+      "class": "group",
+      "id": "CB653BCF-8974-41E7-B9D0-5237F65C4CDA"
+    },
+    {
+      "class": "group",
+      "id": "D0426074-5482-4251-898B-CFA16BC9CC6E"
+    }
+  ],
+  "name": "Function Panel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

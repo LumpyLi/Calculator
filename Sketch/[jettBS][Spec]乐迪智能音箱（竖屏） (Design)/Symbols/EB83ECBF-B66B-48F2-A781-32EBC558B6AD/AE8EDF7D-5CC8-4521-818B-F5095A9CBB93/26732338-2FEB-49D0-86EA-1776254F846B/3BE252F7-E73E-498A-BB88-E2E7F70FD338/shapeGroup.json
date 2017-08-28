@@ -1,0 +1,49 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "3BE252F7-E73E-498A-BB88-E2E7F70FD338",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20.8903137254902,
+    "width": 10.82352941176473,
+    "x": 0,
+    "y": 0.7567450980392145
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "08958996-B3A1-486A-87E7-0377216FFC6F"
+    },
+    {
+      "class": "shapePath",
+      "id": "FBDD5D65-3268-4370-BF68-17A370F7744B"
+    }
+  ],
+  "name": "Fill 70",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D85718A9-6A4E-495F-A484-FF9713AB3B9F"
+  },
+  "windingRule": 1
+}

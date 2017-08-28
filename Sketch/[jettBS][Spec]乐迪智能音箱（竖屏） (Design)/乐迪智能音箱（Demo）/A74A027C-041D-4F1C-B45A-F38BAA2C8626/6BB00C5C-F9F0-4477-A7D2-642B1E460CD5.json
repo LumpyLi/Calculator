@@ -1,0 +1,52 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGamtYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiouNTg8REVGR0hMUFhbX2NkZlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA2yL92KKTlCP6mU+f25SMID9kc9T8E4tWS7TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAYgBlXTlNDb2xvcl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtQjJCUKJicoKVVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjY2NjY2NjY2NjcgMC42NjY2NjY2NjY3IDAuNjY2NjY2NjY2NwAQAYAJgAvSKwosLVROU0lEEAGACtIvMDEyWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojM0XE5TQ29sb3JTcGFjZVhOU09iamVjdNIvMDY3V05TQ29sb3KiNjTSCjk6O18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo9QEOiPj+ADoAPokFCgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQIl8QElBpbmdGYW5nU0MtUmVndWxhctIvMElKXxATTlNNdXRhYmxlRGljdGlvbmFyeaNJSzRcTlNEaWN0aW9uYXJ50i8wTU5fEBBOU0ZvbnREZXNjcmlwdG9yok80XxAQTlNGb250RGVzY3JpcHRvctRRUlMKVFVWV1pOU1RhYlN0b3BzW05TQWxpZ25tZW50XE5TVGV4dEJsb2Nrc4AAEAKAFYAX0hIKWVqggBbSLzBcXV5OU011dGFibGVBcnJheaNcXjRXTlNBcnJhedIvMGBhXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjYGI0XxAQTlNQYXJhZ3JhcGhTdHlsZSM/2/omNstuKNIvMEtloks00i8wZ2hfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiaTRfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbG1Ucm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAngClAK0AuAC9AL8AwQDDAMUAygDMAM4A0ADSANQA3AD+AREBGAEhAScBNAFJAXMBdQF3AXkBfgGDAYUBhwGMAZcBoAGtAbABvQHGAcsB0wHWAdsB+AH6AfwCAwIGAggCCgINAg8CEQITAikCPwJBAlYCWwJxAnUCggKHApoCnQKwArkCxALQAt0C3wLhAuMC5QLqAusC7QLyAwEDBQMNAxIDLAMwA0MDTANRA1QDWQNuA3EDhgOYA5sDoAAAAAAAAAIBAAAAAAAAAG4AAAAAAAAAAAAAAAAAAAOi"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6BB00C5C-F9F0-4477-A7D2-642B1E460CD5",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 414,
+    "x": 193,
+    "y": 560
+  },
+  "glyphBounds": "{{1, 7}, {411, 33}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "请把乐迪放置到能量台中央",
+  "nameIsFixed": false,
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "3592C11D-8FB9-409F-B98B-0584B051C46A"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "6BB00C5C-F9F0-4477-A7D2-642B1E460CD5"
+    }
+  }
+}

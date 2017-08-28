@@ -1,0 +1,28 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "598BC96C-620D-482C-A780-79A003B1D0B2",
+  "name": "Border-Grey3",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "598BC96C-620D-482C-A780-79A003B1D0B2",
+    "startDecorationType": 0
+  }
+}

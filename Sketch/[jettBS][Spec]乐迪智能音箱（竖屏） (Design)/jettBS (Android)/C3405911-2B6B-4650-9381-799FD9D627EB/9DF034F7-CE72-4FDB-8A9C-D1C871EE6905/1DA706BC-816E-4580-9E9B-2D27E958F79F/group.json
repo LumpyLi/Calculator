@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "1DA706BC-816E-4580-9E9B-2D27E958F79F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 600,
+    "x": 100,
+    "y": 369
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8DD92C3A-A4F1-47D4-9ECD-AA9F61D4FCA1"
+    },
+    {
+      "class": "text",
+      "id": "EA900B20-3634-4A09-A06B-9FBE572D1BC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43ADFBA9-B604-420D-9D03-44A687CCF34C"
+    },
+    {
+      "class": "text",
+      "id": "F12341E1-CE43-4F16-A99F-50843B94897F"
+    }
+  ],
+  "name": "Phone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "8C45D06E-A227-46F8-9125-393F10798C08"
+    }
+  }
+}

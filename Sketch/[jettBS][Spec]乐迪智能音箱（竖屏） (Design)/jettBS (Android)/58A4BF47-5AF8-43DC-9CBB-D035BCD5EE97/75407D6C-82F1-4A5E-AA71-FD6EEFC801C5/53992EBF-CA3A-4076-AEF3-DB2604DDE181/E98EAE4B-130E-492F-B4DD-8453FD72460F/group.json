@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "E98EAE4B-130E-492F-B4DD-8453FD72460F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 208,
+    "width": 208,
+    "x": 40,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "02245898-0683-41F1-88C8-D14B29642374"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D19A93E2-9009-414E-B681-491B3D09F452"
+    }
+  ],
+  "name": "Avatar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "E98EAE4B-130E-492F-B4DD-8453FD72460F"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "E98EAE4B-130E-492F-B4DD-8453FD72460F"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "0E6A376B-54A9-49BE-8A77-DF6C000BF08A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 140,
+    "x": 600,
+    "y": 1152
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C4F9C6CA-908A-4A2B-AEB3-F27C579C0E66"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29ABE6C4-42F5-4B47-AAFD-83CEB29E0D33"
+    }
+  ],
+  "name": "Talk Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "FA65D7B6-B16E-494D-9C07-4B1BFA3630D1"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "1B9845EC-F243-4BEE-832C-14805651BA9E"
+    }
+  }
+}

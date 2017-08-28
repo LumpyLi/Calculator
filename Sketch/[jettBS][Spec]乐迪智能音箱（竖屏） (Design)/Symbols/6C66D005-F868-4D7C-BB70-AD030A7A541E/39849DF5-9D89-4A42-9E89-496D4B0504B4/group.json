@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "39849DF5-9D89-4A42-9E89-496D4B0504B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 359,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "905F90CF-9782-47E2-849A-D55DC7DF2438"
+    },
+    {
+      "class": "group",
+      "id": "BDA38D0D-3317-4722-9D37-BBDC813174DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16F28BC4-89D2-4146-A126-60B0B15A93D8"
+    }
+  ],
+  "name": "Bars / Search Bar / _Resources / Text Field With Dictation - Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

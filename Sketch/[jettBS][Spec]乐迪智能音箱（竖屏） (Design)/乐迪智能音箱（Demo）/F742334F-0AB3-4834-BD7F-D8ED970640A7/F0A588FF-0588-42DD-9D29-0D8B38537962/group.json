@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "F0A588FF-0588-42DD-9D29-0D8B38537962",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 400,
+    "width": 663,
+    "x": 64.984375,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B931EEC4-A2BD-4A27-8437-CEE244FAF1B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0ED8FC10-164C-45C3-AEEE-A376B3E0746D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "08DCC14C-C96D-4196-85B8-71E4E6492B61"
+    },
+    {
+      "class": "group",
+      "id": "F5E641D2-AB31-4F3B-AA50-F146D3798C10"
+    }
+  ],
+  "name": "Power",
+  "nameIsFixed": true,
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "5D7BAED3-D346-4FC5-8C8A-97BE03714850"
+    }
+  }
+}

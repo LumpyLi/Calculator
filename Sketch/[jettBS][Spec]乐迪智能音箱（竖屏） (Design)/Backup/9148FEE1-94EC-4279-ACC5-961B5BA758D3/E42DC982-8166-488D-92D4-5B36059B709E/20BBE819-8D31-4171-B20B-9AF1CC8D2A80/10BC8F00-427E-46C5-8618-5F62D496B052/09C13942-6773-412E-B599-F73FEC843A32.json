@@ -1,0 +1,96 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "09C13942-6773-412E-B599-F73FEC843A32",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 143.4588864126718,
+    "width": 60.87804878048777,
+    "x": 2.38e-13,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 1,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{6.4531713306337461e-16, 1}",
+        "curveMode": 1,
+        "curveTo": "{6.4531713306337461e-16, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{6.4531713306337461e-16, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.45378151260504201}",
+        "curveMode": 1,
+        "curveTo": "{0, 0.45378151260504201}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 0.45378151260504201}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.15703189732984685, 0.34832840917199076}",
+        "curveMode": 1,
+        "curveTo": "{0.15703189732984685, 0.34832840917199076}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.15703189732984685, 0.34832840917199076}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 0}",
+        "curveMode": 1,
+        "curveTo": "{1, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 1}",
+        "curveMode": 1,
+        "curveTo": "{1, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 1}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "38A9D0C3-D878-45C9-9A51-05FAAB39CC25"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "FDCE21F2-2C18-4F7F-847E-6DDB4FEC5FF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A5794EF1-3C49-4BB0-8436-FA8670F6ED9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2E1EF24-FDC3-4E9D-BFDB-C0EB6A9330EA"
+    },
+    {
+      "class": "text",
+      "id": "D88F6AA5-CC03-43A4-9006-4B45BF214E14"
+    }
+  ],
+  "name": "Views / Alert / 1 Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

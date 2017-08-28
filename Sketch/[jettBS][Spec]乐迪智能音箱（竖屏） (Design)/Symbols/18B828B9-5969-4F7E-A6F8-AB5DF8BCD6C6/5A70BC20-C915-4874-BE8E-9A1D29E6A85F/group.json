@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "5A70BC20-C915-4874-BE8E-9A1D29E6A85F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B82DFF42-92E8-49E4-9E2B-03B11DE898F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6DBE80F4-91CF-4139-944B-CFF98C88A013"
+    },
+    {
+      "class": "group",
+      "id": "87910545-C86D-4481-B282-5B0D9970739F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45DB2CD1-566B-4A28-B8BE-05677AA2B713"
+    }
+  ],
+  "name": "Table Views / Cell / Avatar - Summary - Menu Mode - 1 Option on Right",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "7EB2235A-16DF-4981-944D-38EFAA68AFCB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 29,
+    "width": 29,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D3E6DE97-6D29-4682-967E-885A5E4FDAB9"
+    },
+    {
+      "class": "bitmap",
+      "id": "2DA6F4CD-6C95-48D4-AA3D-B142A70D258C"
+    }
+  ],
+  "name": "Icons / Image Holder / Image - Oval Masked",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

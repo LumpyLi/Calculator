@@ -1,0 +1,73 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": 0,
+  "do_objectID": "0C1836B8-CDC6-4CBB-91A6-2BBD2770F9AF",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 11.61915841901874,
+    "width": 25,
+    "x": -0.030682848832944,
+    "y": -0.007151092813988
+  },
+  "hasConvertedToNewRoundCorners": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle 55 Copy",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 0,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 1,
+        "curveFrom": "{0.68167106618023177, -0.03277703661892406}",
+        "curveMode": 1,
+        "curveTo": "{0.3224862218299408, -0.03277703661892406}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.50010981968371981, -0.03277703661892406}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 2,
+        "curveFrom": "{1.0388870862091562, 1}",
+        "curveMode": 1,
+        "curveTo": "{1.0388870862091562, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1.0388870862091562, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 2,
+        "curveFrom": "{-0.038667446841716503, 1}",
+        "curveMode": 1,
+        "curveTo": "{-0.038667446841716503, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{-0.038667446841716503, 1}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

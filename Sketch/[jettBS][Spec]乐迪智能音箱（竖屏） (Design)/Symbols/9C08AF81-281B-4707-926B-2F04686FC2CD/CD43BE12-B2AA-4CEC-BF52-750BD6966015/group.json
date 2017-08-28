@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "CD43BE12-B2AA-4CEC-BF52-750BD6966015",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0876BB24-78BC-4FD0-8EFD-9E73F31A3B42"
+    },
+    {
+      "class": "text",
+      "id": "C0DBCA3D-34BF-4A28-8E49-E3763837DBCB"
+    },
+    {
+      "class": "text",
+      "id": "A34C7ACA-8F42-435C-9AAE-E538103F79FB"
+    },
+    {
+      "class": "text",
+      "id": "47013FD9-8403-48ED-BA86-62E25B53BDCB"
+    },
+    {
+      "class": "text",
+      "id": "65C3D19A-504C-4A4E-B361-33E815332DB2"
+    },
+    {
+      "class": "text",
+      "id": "82127472-2246-44B5-92FA-7CFCA07D8619"
+    }
+  ],
+  "name": "Bars / Tool Bar / Text Actions With Summary And Description",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

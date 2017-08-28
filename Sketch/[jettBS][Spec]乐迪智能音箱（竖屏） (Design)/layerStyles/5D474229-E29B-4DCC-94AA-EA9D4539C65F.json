@@ -1,0 +1,28 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "5D474229-E29B-4DCC-94AA-EA9D4539C65F",
+  "name": "Border-Light1",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9607843137254902,
+          "green": 0.9607843137254902,
+          "red": 0.9607843137254902
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "5D474229-E29B-4DCC-94AA-EA9D4539C65F",
+    "startDecorationType": 0
+  }
+}

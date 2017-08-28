@@ -1,0 +1,116 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 0.699999988079071,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4,
+        "green": 0.4,
+        "red": 0.4
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5333333333333333,
+        "green": 0.5333333333333333,
+        "red": 0.5333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6666666666666666,
+        "green": 0.6666666666666666,
+        "red": 0.6666666666666666
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8,
+        "green": 0.8,
+        "red": 0.8
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8666666666666667,
+        "green": 0.8666666666666667,
+        "red": 0.8666666666666667
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9372549019607843,
+        "green": 0.9372549019607843,
+        "red": 0.9372549019607843
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9607843137254902,
+        "green": 0.9607843137254902,
+        "red": 0.9607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 0.7000000000000001,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1.4901161e-9,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "F4AEB396-F86B-4A5C-9BA1-F02B05FB68CF",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

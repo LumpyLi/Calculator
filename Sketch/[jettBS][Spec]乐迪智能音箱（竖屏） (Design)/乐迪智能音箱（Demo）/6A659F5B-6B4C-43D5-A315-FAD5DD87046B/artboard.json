@@ -1,0 +1,98 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "6A659F5B-6B4C-43D5-A315-FAD5DD87046B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 800,
+    "width": 1280,
+    "x": 4871,
+    "y": 3804
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AD46A5FD-7CF7-467D-A13F-E534FB242A1C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B2D6DA9-23E3-4ACB-A810-8160F6B8CAA2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "757E47C2-89C5-4820-923E-0C4FDEEE7830"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34293309-EB54-4132-AAD9-6AD7044100C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACDCCC88-7434-4CA5-AE8C-76BE8868F709"
+    }
+  ],
+  "name": "3-7. 探索世界 - 切换至横屏",
+  "nameIsFixed": false,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "6A659F5B-6B4C-43D5-A315-FAD5DD87046B"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

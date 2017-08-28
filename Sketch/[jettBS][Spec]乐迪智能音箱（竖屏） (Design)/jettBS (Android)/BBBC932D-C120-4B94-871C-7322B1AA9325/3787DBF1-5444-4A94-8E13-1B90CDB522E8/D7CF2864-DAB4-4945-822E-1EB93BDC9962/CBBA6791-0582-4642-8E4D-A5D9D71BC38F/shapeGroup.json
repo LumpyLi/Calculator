@@ -1,0 +1,54 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "CBBA6791-0582-4642-8E4D-A5D9D71BC38F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 28,
+    "width": 28,
+    "x": 540,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4C125AC1-4185-4ABC-8D3C-2E9E6711F256"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA5E5116-DDBA-4A89-8AFC-C5BA8FFD4266"
+    }
+  ],
+  "name": "Clear Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D85718A9-6A4E-495F-A484-FF9713AB3B9F"
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "CBBA6791-0582-4642-8E4D-A5D9D71BC38F"
+    }
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "A38C9A0C-8C58-4503-BDEC-F4EF9F45E6F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 800,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3E82F53D-08A2-4F26-986B-8C8DBDFF01A8"
+    },
+    {
+      "class": "group",
+      "id": "CE51831A-2F1F-4FB6-A1C9-3DD4D55AAF6C"
+    },
+    {
+      "class": "group",
+      "id": "79632E3F-ECBB-48FA-92ED-0AAFB458FE64"
+    },
+    {
+      "class": "group",
+      "id": "1FF98F4B-41F8-4250-9023-FFEA15506314"
+    },
+    {
+      "class": "group",
+      "id": "B89AEE63-34FA-434D-850C-ABCD5280DF18"
+    },
+    {
+      "class": "group",
+      "id": "D8A7EF77-E5BB-4E67-9E35-2EA8D9684FA7"
+    },
+    {
+      "class": "group",
+      "id": "D1D44DC6-5D0C-4A6E-8DF4-AA77AA308417"
+    },
+    {
+      "class": "text",
+      "id": "1B9C4207-DCEF-4D9B-B91D-5682242C380A"
+    },
+    {
+      "class": "group",
+      "id": "73BD233D-5F01-4344-A37F-C3D23C798233"
+    }
+  ],
+  "name": "Wireframe",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "A38C9A0C-8C58-4503-BDEC-F4EF9F45E6F3"
+    }
+  }
+}

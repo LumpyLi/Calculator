@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "do_objectID": "B90F97D6-AE41-444B-A118-118F12DE0F47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1280,
+    "width": 800,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FF297CF6-95F6-4535-AA13-FC29563CD033"
+    },
+    {
+      "class": "group",
+      "id": "6A57ED7D-2093-4715-961A-4BD9539CD2B3"
+    },
+    {
+      "class": "group",
+      "id": "1135DF0F-11E2-47FB-B339-AB5C66F016B5"
+    },
+    {
+      "class": "group",
+      "id": "C0A3E78F-90A5-4492-9ADD-83148C2370B5"
+    },
+    {
+      "class": "group",
+      "id": "93B1CDFE-C4E5-4AE8-976A-4F1925058142"
+    },
+    {
+      "class": "group",
+      "id": "51866956-426F-46EF-83D5-A0A9D994F01F"
+    },
+    {
+      "class": "group",
+      "id": "672B0E99-D14E-4CA6-B1D5-11EA7FBCEF26"
+    },
+    {
+      "class": "text",
+      "id": "19AF43F6-FF5C-4008-BD01-B437DECFD602"
+    },
+    {
+      "class": "group",
+      "id": "667B6269-E733-4214-8567-8549004EE43F"
+    },
+    {
+      "class": "group",
+      "id": "3A2F0B21-622E-4D3C-9149-32879647A45C"
+    },
+    {
+      "class": "group",
+      "id": "DFB78D70-7DA4-47F9-9257-8CFC616B016B"
+    },
+    {
+      "class": "group",
+      "id": "F060EA14-96E2-489C-A1B1-E188DF4FC59B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC4BD536-7A92-46B0-90A5-3F075BF0BB49"
+    },
+    {
+      "class": "group",
+      "id": "31742D4A-F419-4911-A686-BF43E78087CB"
+    }
+  ],
+  "name": "Wireframe",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "B90F97D6-AE41-444B-A118-118F12DE0F47"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "34FBD043-8E77-43EA-A3A4-71C1BC102A62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 600,
+    "x": 100,
+    "y": 540
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "39BB02BB-178E-48FF-9C2B-6C55660EC1F9"
+    },
+    {
+      "class": "group",
+      "id": "56DCBF81-D2FC-4DEA-A1AB-9FB47B88D2E6"
+    },
+    {
+      "class": "group",
+      "id": "47A1922D-C40E-4DF2-B12F-0EEC1EBE3DFE"
+    },
+    {
+      "class": "group",
+      "id": "C22E192D-3C0F-4458-90B0-699E9E28AED5"
+    }
+  ],
+  "name": "Tab Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 37,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "34FBD043-8E77-43EA-A3A4-71C1BC102A62"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "DCE63B47-0764-4F84-8406-2EA1E74E592A"
+    }
+  }
+}

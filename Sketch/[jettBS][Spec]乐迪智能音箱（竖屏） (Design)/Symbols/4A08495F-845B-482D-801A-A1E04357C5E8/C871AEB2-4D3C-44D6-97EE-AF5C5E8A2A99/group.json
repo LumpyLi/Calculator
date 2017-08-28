@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "C871AEB2-4D3C-44D6-97EE-AF5C5E8A2A99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 248,
+    "width": 355,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "072717A8-EB3F-4442-BD54-5CC4E4165EB2"
+    },
+    {
+      "class": "group",
+      "id": "E413DE05-1960-410B-B632-F1878A0C4EA8"
+    }
+  ],
+  "name": "Views / Action Sheet / 2 Buttons With Title & Description & Cancel Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

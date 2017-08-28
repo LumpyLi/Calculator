@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "3BD1D314-D59B-42B2-B796-232086FEB1C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "65F1D27B-5A57-4480-BFD7-EC4615275033"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5BD9069-45DA-4CC5-A6A1-720A07C887C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49B9577A-6440-496B-BD2A-84C6E7680469"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D080D4A-686B-4AA9-8083-1FC9BEC983BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C44351C9-C4D6-4CE8-8E4B-BB378429B9D3"
+    },
+    {
+      "class": "text",
+      "id": "789098D4-2F92-434F-ABB0-7F895F195D08"
+    },
+    {
+      "class": "group",
+      "id": "07895ACF-EF1A-4533-BAE4-7B917833AA42"
+    }
+  ],
+  "name": "Table Views / Cell / Hierarchical - Subtitle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "8092D436-30AE-4737-BC51-AA1DAFACE6A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 95,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C4DEFCD8-BEF4-4939-BA65-D629D26AB0FE"
+    },
+    {
+      "class": "text",
+      "id": "F5869266-0396-4B33-9F77-AEDF0E445B23"
+    },
+    {
+      "class": "text",
+      "id": "C37A769E-F6B2-4217-B6B6-49BD7A3D7ED9"
+    },
+    {
+      "class": "group",
+      "id": "D7CD7A2C-2E85-4170-AF9D-3B38C7C5DED2"
+    }
+  ],
+  "name": "Views / Notification / Notification With Title",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

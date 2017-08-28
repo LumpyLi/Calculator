@@ -1,0 +1,139 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "A81BC4E3-7DB4-4937-9875-A8C8D477F55B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 33,
+    "width": 33,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F82CC57B-3EE1-4435-9B44-3CD4BCA5DD29"
+    },
+    {
+      "class": "shapePath",
+      "id": "249327DD-C882-4395-879C-9304096D6495"
+    },
+    {
+      "class": "shapePath",
+      "id": "52785719-E10E-4EEC-9521-53E8571985A2"
+    },
+    {
+      "class": "shapePath",
+      "id": "8223B347-9B6B-4857-BD50-85214A205DFF"
+    },
+    {
+      "class": "shapePath",
+      "id": "999C2C62-884A-4785-BE0D-83AFD81E6828"
+    },
+    {
+      "class": "shapePath",
+      "id": "EC62C426-BBD3-4A02-B93C-CDD827847298"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9E5F6AC-C2DB-4C54-AE9A-AFD2B6005488"
+    },
+    {
+      "class": "shapePath",
+      "id": "730E80F2-3F86-48B6-B230-84824EF9E10C"
+    },
+    {
+      "class": "shapePath",
+      "id": "28A836B0-AD9B-4827-A31D-ED5F286C927A"
+    },
+    {
+      "class": "shapePath",
+      "id": "FDBAC68F-6D07-4903-9895-F4D84839B454"
+    },
+    {
+      "class": "shapePath",
+      "id": "9AEA8BBE-500C-43AE-BD32-F11F4FF06FF8"
+    },
+    {
+      "class": "shapePath",
+      "id": "47EB1610-CD3A-4DB1-88C9-7936ED759B9A"
+    },
+    {
+      "class": "shapePath",
+      "id": "D41825D8-6B0B-42FE-8012-96FC4C0A301B"
+    },
+    {
+      "class": "shapePath",
+      "id": "53188725-BB78-437E-9530-B031CFFE3957"
+    },
+    {
+      "class": "shapePath",
+      "id": "2420F390-807F-4923-9A15-9B78E9986883"
+    },
+    {
+      "class": "shapePath",
+      "id": "E6FD78C6-29B5-4A96-9FC7-666EF8995E77"
+    },
+    {
+      "class": "shapePath",
+      "id": "1FACB9F2-7327-4237-8589-889D52F3C9E4"
+    },
+    {
+      "class": "shapePath",
+      "id": "9EC19219-3464-489A-8F96-551B23262F34"
+    }
+  ],
+  "name": "World",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "1250D9B1-E232-4690-9CCF-CC54003415E0"
+    }
+  },
+  "windingRule": 1
+}

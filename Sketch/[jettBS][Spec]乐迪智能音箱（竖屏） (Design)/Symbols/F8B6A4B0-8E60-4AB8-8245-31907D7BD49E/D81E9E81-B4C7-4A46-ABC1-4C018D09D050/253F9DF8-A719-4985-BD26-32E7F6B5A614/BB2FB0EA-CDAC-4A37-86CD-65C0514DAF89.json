@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PklMUFRcYGRnaVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1hQYXNzd29yZNMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACYARgBWAGVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yI7+0euFAAAAD0gokJSZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AQgArTERIKKCsuoikqgAuADKIsLYANgA6AD18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA1fEBFTRlByb1RleHQtUmVndWxhctI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozY4OVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNDU7PF8QEE5TRm9udERlc2NyaXB0b3KiPTlfEBBOU0ZvbnREZXNjcmlwdG9y1j9AQUIKQ0RFRkdIRltOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodBAEgAAjQDIAAAAAAACAEoAU0hIKSkuggBPSNDVNTl5OU011dGFibGVBcnJheaNNTzlXTlNBcnJhedI0NVFSXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjUVM5XxAQTlNQYXJhZ3JhcGhTdHlsZdRVVlcKWFlaW1VOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VMMC44IDAuOCAwLjgAEAGAFoAY0l0KXl9UTlNJRBABgBfSNDVhYlxOU0NvbG9yU3BhY2WiYzlcTlNDb2xvclNwYWNl0jQ1ZWZXTlNDb2xvcqJlOdI0NThoojg50jQ1amtfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibDlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRb3BUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAjgCVAJ0AqACtAK8AsQCzALUAugC8AL4AwADCAMQAywDtAQABCAERARYBMwE1ATcBPgFBAUMBRQFIAUoBTAFOAWQBegF8AZABlQGgAakBvwHDAdAB2QHeAfEB9AIHAhQCIAIrAj0CSgJcAl4CYAJpAmsCbQJyAnMCdQJ6AokCjQKVApoCtAK4AssC1ALaAucC/AMJAwsDDQMPAxQDGQMbAx0DIgMvAzIDPwNEA0wDTwNUA1cDXANxA3QDiQObA54DowAAAAAAAAIBAAAAAAAAAHEAAAAAAAAAAAAAAAAAAAOl"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "BB2FB0EA-CDAC-4A37-86CD-65C0514DAF89",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 59,
+    "x": 5,
+    "y": 3
+  },
+  "glyphBounds": "{{0, 0}, {58, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Password",
+  "nameIsFixed": false,
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A38C3537-AF56-4502-881F-97138B7E3445"
+  },
+  "textBehaviour": 0
+}

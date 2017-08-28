@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "95DD0E21-EEC6-412C-BF81-C57C65DCD37C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 230,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1A20629D-B42F-4F5C-B88D-815DE35ACD8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC1E4EE1-83CA-4C1B-969F-2D86FE0D371E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A431455E-C839-4B9C-BDF5-1A3D5523DFFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58428415-953A-4F5E-A4D2-04C18E0CE5A0"
+    },
+    {
+      "class": "text",
+      "id": "458B6E7D-2928-4120-82A8-571CB296C6D7"
+    },
+    {
+      "class": "text",
+      "id": "9EAAC7D0-A16C-435B-9696-D98336D47AEC"
+    }
+  ],
+  "name": "Views / Alert / 3 Buttons With Description",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

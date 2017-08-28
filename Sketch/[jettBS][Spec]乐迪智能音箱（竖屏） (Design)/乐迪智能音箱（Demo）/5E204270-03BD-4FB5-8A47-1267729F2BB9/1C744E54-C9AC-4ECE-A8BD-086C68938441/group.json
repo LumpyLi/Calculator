@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "1C744E54-C9AC-4ECE-A8BD-086C68938441",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 666.6666666666664,
+    "width": 800,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4CB7893A-D88B-4992-BAC6-839055AA9BE0"
+    },
+    {
+      "class": "text",
+      "id": "5695724C-87C8-40BE-8C45-F33016DF34D5"
+    },
+    {
+      "class": "text",
+      "id": "AC148A5C-285F-4649-B88A-60991A3749F4"
+    }
+  ],
+  "name": "Image",
+  "nameIsFixed": true,
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "1C744E54-C9AC-4ECE-A8BD-086C68938441"
+    }
+  }
+}

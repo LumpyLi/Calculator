@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "DDE33BE1-1DED-4E04-8409-1D08B3CEF796",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 180,
+    "x": 310,
+    "y": 550
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "16845034-A4F8-46DF-A280-C54E0EC4873D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34272672-AA56-43EF-805F-6CC2C74BD470"
+    },
+    {
+      "class": "text",
+      "id": "6B4F4A17-66C4-4667-9093-3B697CCF5677"
+    }
+  ],
+  "name": "Toast",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "DDE33BE1-1DED-4E04-8409-1D08B3CEF796"
+    }
+  }
+}

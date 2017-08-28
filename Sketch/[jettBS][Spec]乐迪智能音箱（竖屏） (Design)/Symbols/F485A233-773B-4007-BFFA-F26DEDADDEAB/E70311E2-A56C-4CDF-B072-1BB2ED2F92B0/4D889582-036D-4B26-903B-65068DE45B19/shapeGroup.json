@@ -1,0 +1,57 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "4D889582-036D-4B26-903B-65068DE45B19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12.5,
+    "width": 4,
+    "x": 9,
+    "y": 4.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C1AF6379-F021-4C2E-AC29-AB82F38072CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "6489CE1D-C948-44EE-A099-6023E3029C84"
+    },
+    {
+      "class": "rectangle",
+      "id": "FCC2C611-50B1-4F1F-A480-23B249025622"
+    },
+    {
+      "class": "oval",
+      "id": "2E08B0CA-B7EA-405E-ACD1-4AC041514E08"
+    }
+  ],
+  "name": "Info Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D85718A9-6A4E-495F-A484-FF9713AB3B9F"
+  },
+  "windingRule": 1
+}

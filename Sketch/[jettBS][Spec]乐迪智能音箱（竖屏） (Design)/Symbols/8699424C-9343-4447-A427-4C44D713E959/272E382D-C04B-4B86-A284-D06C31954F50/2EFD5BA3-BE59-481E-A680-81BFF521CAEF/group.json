@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "2EFD5BA3-BE59-481E-A680-81BFF521CAEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 20.11764705882353,
+    "width": 27,
+    "x": 1,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "412FFA27-9E1F-435B-BB4C-B89EE2F2C737"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FEF557F0-B3F5-4777-ACAB-1F5098D059DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11477EFC-4D7D-4B54-9BF2-8BDB916FD434"
+    }
+  ],
+  "name": "Camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

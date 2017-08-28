@@ -1,0 +1,51 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "A475630D-B195-4FDC-AEB8-303368FD50F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 65,
+    "x": 608,
+    "y": 710
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "99EF2776-3019-4C9B-A4B3-1D4A2A4173E7"
+    }
+  ],
+  "name": "Checkmark",
+  "nameIsFixed": true,
+  "originalObjectID": "98915276-317E-4759-B846-3548D0754D59",
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "017074AB-21EB-4051-88ED-0835C0244AD1"
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "A475630D-B195-4FDC-AEB8-303368FD50F5"
+    }
+  },
+  "windingRule": 1
+}

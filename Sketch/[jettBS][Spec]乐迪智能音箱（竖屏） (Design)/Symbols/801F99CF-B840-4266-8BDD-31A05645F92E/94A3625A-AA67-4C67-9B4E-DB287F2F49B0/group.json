@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "94A3625A-AA67-4C67-9B4E-DB287F2F49B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 51,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "84D9E144-17BC-4D7F-8585-38AB3CECDC7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "41DB7D5B-1F64-4E41-A25E-09E0D7142A3C"
+    }
+  ],
+  "name": "Bars / Search Bar / Dictation Dark - Default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

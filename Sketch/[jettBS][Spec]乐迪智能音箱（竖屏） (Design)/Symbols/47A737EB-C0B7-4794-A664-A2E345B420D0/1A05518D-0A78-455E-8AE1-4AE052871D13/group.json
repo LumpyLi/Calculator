@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "1A05518D-0A78-455E-8AE1-4AE052871D13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3EE42551-5D4D-4976-8640-9742A6C1521B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72294DC1-D5B3-40A5-92C8-E94064D890A3"
+    }
+  ],
+  "name": "Bars / Search Bar / As Navigation Bar / Dictation Light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

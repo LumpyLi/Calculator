@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "EC570246-05D5-43A3-BCBA-7D6B3D360D18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 600,
+    "x": 100,
+    "y": 1020
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F77E0118-B70E-4F62-8BDA-1B4401177BE0"
+    },
+    {
+      "class": "text",
+      "id": "A2C1B497-EEBF-4673-87BD-53364EE66C56"
+    },
+    {
+      "class": "text",
+      "id": "39FBFDF5-7203-4231-A1E4-49B2EDA0622D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FFF5FA89-DA68-4AC9-A9D2-2A32D71B7DD7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8C0933CD-70CA-42C2-AF50-D20762FEDF67"
+    }
+  ],
+  "name": "Control Panel",
+  "nameIsFixed": true,
+  "resizingConstraint": 37,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "5106E2FC-99A9-4755-AABF-A9EB4AA6C04E"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "67B88A70-E16D-4130-B752-9ABC16D8C078"
+    }
+  }
+}

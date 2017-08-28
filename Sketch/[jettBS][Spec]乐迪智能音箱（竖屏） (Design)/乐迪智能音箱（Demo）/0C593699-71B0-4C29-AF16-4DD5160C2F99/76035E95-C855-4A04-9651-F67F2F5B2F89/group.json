@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "76035E95-C855-4A04-9651-F67F2F5B2F89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 40,
+    "x": 680,
+    "y": 580
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CD7EEC5A-FC66-408C-B99C-19A193DEA825"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B5CD2F41-B061-4DA9-85E5-2D62CFC36970"
+    }
+  ],
+  "name": "Energy Tank",
+  "nameIsFixed": true,
+  "resizingConstraint": 36,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "DEC5A3AE-9280-4C7C-B0DD-76D36A0EA7F9"
+    }
+  }
+}

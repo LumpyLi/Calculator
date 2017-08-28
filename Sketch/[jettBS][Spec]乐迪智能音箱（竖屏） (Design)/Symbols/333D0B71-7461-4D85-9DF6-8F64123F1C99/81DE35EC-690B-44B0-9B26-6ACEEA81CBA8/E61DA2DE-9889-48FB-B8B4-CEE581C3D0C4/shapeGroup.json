@@ -1,0 +1,57 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E61DA2DE-9889-48FB-B8B4-CEE581C3D0C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 9.5,
+    "width": 14.5,
+    "x": 7,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8A68422E-D3F5-4F93-96B9-8E7BEE61EAC4"
+    },
+    {
+      "class": "rectangle",
+      "id": "5F0E92D8-F729-4E01-9AD4-E66FCD4CF6B0"
+    },
+    {
+      "class": "rectangle",
+      "id": "5937E71B-F7EA-42B3-8F6C-1D46EA3A2A97"
+    },
+    {
+      "class": "rectangle",
+      "id": "D63D6043-4B12-49F1-A9E5-EDB7DA43CC6A"
+    }
+  ],
+  "name": "Mobile Signal",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "1E67F934-5E0D-4BC1-9EB3-6B67B1CD11F2"
+  },
+  "windingRule": 1
+}

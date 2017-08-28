@@ -1,0 +1,53 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B5CD2F41-B061-4DA9-85E5-2D62CFC36970",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 237,
+    "width": 40,
+    "x": 0,
+    "y": 263
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EF65E3E5-0E2D-4C1B-A9F8-1A860AC04DAF"
+    }
+  ],
+  "name": "Energy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "1E67F934-5E0D-4BC1-9EB3-6B67B1CD11F2"
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "B5CD2F41-B061-4DA9-85E5-2D62CFC36970"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "CEA997F1-F2BD-4360-874C-FA3AF17BAD9C"
+    }
+  },
+  "windingRule": 1
+}

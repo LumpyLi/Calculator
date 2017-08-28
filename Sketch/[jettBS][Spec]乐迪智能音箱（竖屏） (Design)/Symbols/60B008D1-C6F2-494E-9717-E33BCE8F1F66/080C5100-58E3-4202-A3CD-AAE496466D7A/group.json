@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "080C5100-58E3-4202-A3CD-AAE496466D7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0795413D-D220-4A02-A44A-87CC3D2FCFEF"
+    },
+    {
+      "class": "text",
+      "id": "7A6C257F-3FD5-422E-8119-B7CDF04FC5FC"
+    },
+    {
+      "class": "text",
+      "id": "A79CF3C6-A88F-48A8-836C-317FDFB8BDC6"
+    },
+    {
+      "class": "text",
+      "id": "301BD450-B796-46EF-AA9B-96C0B15B6FF8"
+    },
+    {
+      "class": "text",
+      "id": "57DE2AE5-3DB5-4C00-9FBB-D6910ED8BDF6"
+    }
+  ],
+  "name": "Bars / Tool Bar / Text Actions With Summary",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

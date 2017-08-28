@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "0A4F3501-83E6-42BA-BF13-93C3A7D923DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1280,
+    "width": 800,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3D268254-1A57-4BB7-A4B2-5173363C7760"
+    },
+    {
+      "class": "text",
+      "id": "972BBABC-2A2A-4108-A0CA-B2AF3568DD74"
+    },
+    {
+      "class": "group",
+      "id": "61ABDA45-04FC-4AF5-8E17-8A5EE8DB89B1"
+    },
+    {
+      "class": "group",
+      "id": "1CACABD4-D537-4494-9C3D-2668CDB6F716"
+    }
+  ],
+  "name": "Wireframe",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

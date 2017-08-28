@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6D82AD61-F775-47FE-B2F5-27217FF585C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 37,
+    "x": 28,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E62754F3-0F94-41BC-9A1D-9BFAE85BB869"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C611E5A1-DAA4-4D02-84B4-611DF0AB7F1C"
+    }
+  ],
+  "name": "Wiki",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

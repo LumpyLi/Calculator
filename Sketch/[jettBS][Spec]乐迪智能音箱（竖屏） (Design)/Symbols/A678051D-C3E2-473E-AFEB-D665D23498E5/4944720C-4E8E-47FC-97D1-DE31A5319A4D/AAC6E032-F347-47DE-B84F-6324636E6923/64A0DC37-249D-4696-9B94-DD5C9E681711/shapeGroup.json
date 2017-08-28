@@ -1,0 +1,57 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "64A0DC37-249D-4696-9B94-DD5C9E681711",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20.16,
+    "width": 21,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A581651D-B7C6-4BC5-95CE-B37840A74C1B"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE7FFE14-BDAB-45AE-A03A-F621E80B9C2C"
+    },
+    {
+      "class": "shapePath",
+      "id": "39F0F582-A0E3-4B4C-AF98-71775D067363"
+    },
+    {
+      "class": "shapePath",
+      "id": "DF114A63-A8B1-4D9E-9364-E5075BE032E2"
+    }
+  ],
+  "name": "Fill 35",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D85718A9-6A4E-495F-A484-FF9713AB3B9F"
+  },
+  "windingRule": 1
+}

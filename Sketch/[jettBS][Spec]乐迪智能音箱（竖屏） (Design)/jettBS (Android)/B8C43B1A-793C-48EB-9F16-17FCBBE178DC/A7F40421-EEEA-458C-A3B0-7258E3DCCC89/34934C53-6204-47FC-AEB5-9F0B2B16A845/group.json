@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "34934C53-6204-47FC-AEB5-9F0B2B16A845",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 88,
+    "width": 88,
+    "x": 60,
+    "y": 1152
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "94C7F2E1-E458-4D6A-93B6-56DA592A1E2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F04ECC74-CA4E-45FC-B0C5-1C20C06C6444"
+    }
+  ],
+  "name": "Music Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "C7CAFE9F-9ADF-4C36-8624-32E835A601D9"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "C389DD57-4D7A-45CE-B5E7-6C25BD1A899F"
+    }
+  }
+}

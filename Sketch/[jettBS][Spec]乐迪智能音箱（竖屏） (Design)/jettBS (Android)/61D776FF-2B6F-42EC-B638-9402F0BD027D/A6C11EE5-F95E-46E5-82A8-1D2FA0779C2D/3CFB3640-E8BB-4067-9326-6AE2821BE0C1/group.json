@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3CFB3640-E8BB-4067-9326-6AE2821BE0C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 88,
+    "width": 88,
+    "x": 444,
+    "y": 1152
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "17E8EEE5-7C02-4AA0-8E31-4F79E722813B"
+    },
+    {
+      "class": "group",
+      "id": "B598CB97-B699-442C-A856-C15F12F42669"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BC727268-59B3-442A-B741-477EF98F3799"
+    }
+  ],
+  "name": "Wiki Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "266D41F8-B144-4B5D-BFA9-C9B196F73D82"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "F34B3803-74A9-415C-945F-2FDB154349D6"
+    }
+  }
+}

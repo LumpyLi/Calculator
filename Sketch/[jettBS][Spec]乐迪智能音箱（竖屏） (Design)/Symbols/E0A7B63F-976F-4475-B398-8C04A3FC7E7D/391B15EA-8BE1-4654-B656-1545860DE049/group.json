@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "391B15EA-8BE1-4654-B656-1545860DE049",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9F7B211D-1203-4178-93D4-F2EAEB4FCE0C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3731BF7A-0087-4BFF-AAB8-122D17B8A2AC"
+    },
+    {
+      "class": "text",
+      "id": "DC94708C-E759-4439-B60D-55D86F55EC0B"
+    },
+    {
+      "class": "text",
+      "id": "823223EC-9C54-4827-B7D9-F282981F37A7"
+    }
+  ],
+  "name": "Table Views / Cell / Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

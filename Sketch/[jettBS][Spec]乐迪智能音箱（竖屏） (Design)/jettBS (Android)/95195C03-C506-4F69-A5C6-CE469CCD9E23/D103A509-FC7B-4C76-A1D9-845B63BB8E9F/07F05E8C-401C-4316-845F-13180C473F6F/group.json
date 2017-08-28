@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "07F05E8C-401C-4316-845F-13180C473F6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 260,
+    "width": 500,
+    "x": 154,
+    "y": 560
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AE18A0A7-3378-493D-B82E-08410B407D28"
+    },
+    {
+      "class": "group",
+      "id": "7342ABFB-DA54-4759-9EFC-2E88CC0391AD"
+    }
+  ],
+  "name": "Discovery",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "D70938B0-3636-4D60-B032-0FEB7F73FBE6"
+    }
+  }
+}

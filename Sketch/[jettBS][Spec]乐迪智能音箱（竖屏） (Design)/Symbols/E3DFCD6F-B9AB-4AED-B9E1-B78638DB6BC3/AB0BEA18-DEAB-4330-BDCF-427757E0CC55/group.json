@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "AB0BEA18-DEAB-4330-BDCF-427757E0CC55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5825C886-BE1A-44CC-9B0D-B8EDE3D43210"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "810A1A0D-E7A0-4B4E-8068-2899492457BE"
+    },
+    {
+      "class": "group",
+      "id": "EF8469FF-B685-48FF-9616-545E2229C263"
+    }
+  ],
+  "name": "Bars / Search Bar / Light - Default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

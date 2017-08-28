@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "7CD7B16F-89AE-4340-A481-61AED658BCB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 25.2,
+    "width": 27,
+    "x": 1,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C2C87B9A-3D6F-477D-88C3-8DA3461EABCF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A838A59-70D5-4989-818F-9E90D9ED7927"
+    }
+  ],
+  "name": "Cloud - Download",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

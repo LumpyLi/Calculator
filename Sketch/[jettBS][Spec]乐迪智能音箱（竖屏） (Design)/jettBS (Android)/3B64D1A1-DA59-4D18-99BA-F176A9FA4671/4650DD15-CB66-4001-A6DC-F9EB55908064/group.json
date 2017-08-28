@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "do_objectID": "4650DD15-CB66-4001-A6DC-F9EB55908064",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1280,
+    "width": 800,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "040B067C-EABF-4E7B-B06E-99F41CF2E858"
+    },
+    {
+      "class": "group",
+      "id": "3E499648-7BD4-4AD9-944C-94BDC02B021E"
+    },
+    {
+      "class": "group",
+      "id": "3B326572-8AA0-4C3B-80E3-4306DBA96D70"
+    },
+    {
+      "class": "group",
+      "id": "673B7F35-AB9E-4B95-A8C0-0488C67653C0"
+    },
+    {
+      "class": "group",
+      "id": "EB6E6556-16DA-45A0-8F6E-9BB342E8BFFA"
+    },
+    {
+      "class": "group",
+      "id": "3AAF9447-4EEB-478C-AF7C-AFEFE8444635"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F864D92-57CB-4F70-BE6D-FC14A9EF413A"
+    },
+    {
+      "class": "group",
+      "id": "3C2DA8FC-4591-4419-90C9-19C534FB4508"
+    },
+    {
+      "class": "group",
+      "id": "88F1C445-887E-4730-BB3A-8755E0025E00"
+    },
+    {
+      "class": "group",
+      "id": "C8A44D42-7561-4C09-B108-796DB69EC347"
+    },
+    {
+      "class": "group",
+      "id": "CDD3E638-4E06-4739-A24D-BF2FA1BED8F0"
+    },
+    {
+      "class": "group",
+      "id": "BD0548DC-E5E8-4DD4-9B5A-2BD9AD8C74BE"
+    }
+  ],
+  "name": "Wireframe",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "4650DD15-CB66-4001-A6DC-F9EB55908064"
+    }
+  }
+}

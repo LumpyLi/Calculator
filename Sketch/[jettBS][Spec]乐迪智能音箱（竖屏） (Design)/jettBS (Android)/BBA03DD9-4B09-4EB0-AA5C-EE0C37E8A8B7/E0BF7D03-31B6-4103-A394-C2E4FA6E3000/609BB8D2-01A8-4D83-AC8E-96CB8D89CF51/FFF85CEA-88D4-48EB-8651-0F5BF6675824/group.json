@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "FFF85CEA-88D4-48EB-8651-0F5BF6675824",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 262,
+    "width": 300,
+    "x": 380,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F7C0C3EE-0CED-4BDA-8ADC-116DF6BF62E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01397FA9-C36E-4F54-8F52-7CA56058A873"
+    },
+    {
+      "class": "text",
+      "id": "F1B1EDBD-7081-445B-B422-3076AD0E5E34"
+    },
+    {
+      "class": "text",
+      "id": "500C004E-FC37-4B30-BC8C-6C0459FB62C3"
+    }
+  ],
+  "name": "Location",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "5D26B5C7-B123-43F6-84FB-22C9261EDEED"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "5D26B5C7-B123-43F6-84FB-22C9261EDEED"
+    }
+  }
+}

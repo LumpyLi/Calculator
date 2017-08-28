@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "95A20E51-BA74-4EFD-8EB8-13541B7DA54C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 452,
+    "x": 414,
+    "y": 711
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B63586F6-BD15-483A-987B-BC324BDEF613"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "83B390FA-1B39-4536-8DE1-C3A7B7C3ABA5"
+    }
+  ],
+  "name": "Waves",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "95A20E51-BA74-4EFD-8EB8-13541B7DA54C"
+    }
+  }
+}

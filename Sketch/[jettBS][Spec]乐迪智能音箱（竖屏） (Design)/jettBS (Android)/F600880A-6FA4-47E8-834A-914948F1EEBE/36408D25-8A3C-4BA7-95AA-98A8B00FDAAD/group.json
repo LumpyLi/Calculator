@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "do_objectID": "36408D25-8A3C-4BA7-95AA-98A8B00FDAAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1280,
+    "width": 800,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A175F280-45A3-4DB9-BE19-5BAB55354FB0"
+    },
+    {
+      "class": "group",
+      "id": "C13787A9-C4C9-4DFB-AE45-A5AB1FC92F12"
+    },
+    {
+      "class": "group",
+      "id": "2A03AC14-DFEA-4EBE-9308-06284616BA9C"
+    },
+    {
+      "class": "group",
+      "id": "4BA0032A-EB9D-43A4-B0FD-8EF99DD47EFD"
+    },
+    {
+      "class": "group",
+      "id": "E2928458-03EF-41CF-9AB3-25FC183F0D6A"
+    },
+    {
+      "class": "group",
+      "id": "B9B8A594-64FF-4BC2-819C-3778FC9E351D"
+    },
+    {
+      "class": "group",
+      "id": "73871E5D-EC30-483D-AF00-04B695245E5C"
+    },
+    {
+      "class": "text",
+      "id": "27DF3F41-38F0-4B07-B58A-B6304187F890"
+    },
+    {
+      "class": "group",
+      "id": "32802992-3C55-4577-A6EF-2EE4D16D1670"
+    },
+    {
+      "class": "group",
+      "id": "1D67C091-2A23-46FE-B8BD-2C6751D7DDBB"
+    },
+    {
+      "class": "group",
+      "id": "7E60F79C-EB4D-4CD0-A2A1-1BD68CBDF92E"
+    },
+    {
+      "class": "group",
+      "id": "6CFBDF66-3655-49FE-A4D3-1539705B99DA"
+    }
+  ],
+  "name": "Wireframe",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "3D2CC7A8-9BE1-432F-8DFB-E7E7A2FAD09D"
+    }
+  }
+}

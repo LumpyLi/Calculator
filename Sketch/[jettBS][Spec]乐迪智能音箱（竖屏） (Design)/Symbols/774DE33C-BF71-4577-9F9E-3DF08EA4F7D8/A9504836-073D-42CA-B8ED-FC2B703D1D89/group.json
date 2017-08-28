@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "A9504836-073D-42CA-B8ED-FC2B703D1D89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 114,
+    "width": 355,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A7A9BCDC-883B-4C71-AD8D-EFD2B3A928EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45CD3321-1EA8-491D-B004-1DF3AA2EB07F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8470C75-72B9-415D-B6E2-11FE1B634C20"
+    }
+  ],
+  "name": "Views / Action Sheet / 2 Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "A9504836-073D-42CA-B8ED-FC2B703D1D89"
+    }
+  }
+}

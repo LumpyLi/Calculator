@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "426FECED-E4F5-4C4B-9F9A-86F3E6C21B4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 600,
+    "x": 100,
+    "y": 369
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FE810A7B-9460-4121-8A39-2ADC9A6D490E"
+    },
+    {
+      "class": "text",
+      "id": "4DC896E5-960D-493A-91A5-7CC5FF4917B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DEEEB26B-8460-44B8-8E3B-A13282F8D962"
+    },
+    {
+      "class": "text",
+      "id": "2B5AA56D-2C99-4F04-BFF9-10BA19BFCC3F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67A64D44-8575-4DBE-8490-D7A989904503"
+    }
+  ],
+  "name": "Phone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "8C45D06E-A227-46F8-9125-393F10798C08"
+    }
+  }
+}

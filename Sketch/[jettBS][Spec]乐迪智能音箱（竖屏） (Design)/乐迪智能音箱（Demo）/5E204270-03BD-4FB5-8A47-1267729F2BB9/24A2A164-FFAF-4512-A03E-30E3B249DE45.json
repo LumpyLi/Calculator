@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "24A2A164-FFAF-4512-A03E-30E3B249DE45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 139.9999999999999,
+    "width": 270,
+    "x": 265,
+    "y": 570
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Alert",
+  "nameIsFixed": true,
+  "overrides": {
+    "153C83EF-EB38-4DDB-A26C-8E51394854B5": "请把乐迪放到身边，检查乐迪是否打开处于蓝灯闪烁状态",
+    "92BA7DC2-96FC-4184-9714-7BB986C23612": "配对失败",
+    "DDD91CB2-392E-4263-B499-35AD06C94C4D": {
+      "7FAB2671-B498-4C9A-8056-4727C761D9AD": "我知道了"
+    }
+  },
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1D4F9BB2-1EBC-4FA2-B01D-3833F4F87EC3",
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "24A2A164-FFAF-4512-A03E-30E3B249DE45"
+    }
+  },
+  "verticalSpacing": 0
+}

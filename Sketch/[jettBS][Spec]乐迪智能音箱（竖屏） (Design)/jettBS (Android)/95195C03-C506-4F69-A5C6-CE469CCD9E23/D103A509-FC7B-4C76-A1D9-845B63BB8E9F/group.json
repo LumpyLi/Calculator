@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "do_objectID": "D103A509-FC7B-4C76-A1D9-845B63BB8E9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1280,
+    "width": 800,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8C9F09BD-E07B-4091-8F3A-75D2C8454482"
+    },
+    {
+      "class": "group",
+      "id": "0E6A376B-54A9-49BE-8A77-DF6C000BF08A"
+    },
+    {
+      "class": "group",
+      "id": "6BF38D9D-5210-4201-B8E8-DA4A45B58714"
+    },
+    {
+      "class": "group",
+      "id": "3A512E5E-ADEC-4CF3-A8C7-115661939E7D"
+    },
+    {
+      "class": "group",
+      "id": "C52C5E08-C1E4-4FC8-B94B-BEBCCA2716DB"
+    },
+    {
+      "class": "group",
+      "id": "C7CAFE9F-9ADF-4C36-8624-32E835A601D9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5963A431-E21C-4C3B-8878-0235AF8D299B"
+    },
+    {
+      "class": "text",
+      "id": "2D4F0993-8786-4222-B03C-A62DD967B03F"
+    },
+    {
+      "class": "group",
+      "id": "07F05E8C-401C-4316-845F-13180C473F6F"
+    },
+    {
+      "class": "group",
+      "id": "08F7EDCC-C089-426D-89E0-A8C9AFDE846A"
+    },
+    {
+      "class": "group",
+      "id": "CC6AFD91-28B4-4703-8EF9-6F220B2CB502"
+    },
+    {
+      "class": "group",
+      "id": "72BC8D08-1244-4360-9F05-AD77860D1F73"
+    }
+  ],
+  "name": "Wireframe",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "3D2CC7A8-9BE1-432F-8DFB-E7E7A2FAD09D"
+    }
+  }
+}

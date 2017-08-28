@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "CA256996-D8DC-4854-B76A-60DD2C5467F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 120,
+    "x": 640,
+    "y": 1120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "91128D9B-AB6B-4E5C-A24D-9D7F940207BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD5BCE16-A033-4D5B-93A7-9783B12C9B66"
+    }
+  ],
+  "name": "Energy Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 36,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "6883168F-2C70-4609-901A-D1C6357DC506"
+    }
+  }
+}

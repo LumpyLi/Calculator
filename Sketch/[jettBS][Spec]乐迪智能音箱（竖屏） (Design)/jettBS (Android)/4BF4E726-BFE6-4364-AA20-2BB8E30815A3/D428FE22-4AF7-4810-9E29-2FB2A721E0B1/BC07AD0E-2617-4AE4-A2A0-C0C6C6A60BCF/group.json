@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "BC07AD0E-2617-4AE4-A2A0-C0C6C6A60BCF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 704,
+    "x": 48,
+    "y": 603
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E145FC34-C386-4349-96B7-3231D4C582D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF5DDD6A-6667-49D0-AD42-BEADD53012F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70D7531D-BD4B-49EB-87DF-B42B3EBFE816"
+    },
+    {
+      "class": "text",
+      "id": "C126F241-9181-486D-93EE-F43F98A45DC2"
+    }
+  ],
+  "name": "App Store",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "BC07AD0E-2617-4AE4-A2A0-C0C6C6A60BCF"
+    }
+  }
+}

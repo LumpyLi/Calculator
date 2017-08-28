@@ -1,0 +1,172 @@
+{
+  "_class": "page",
+  "do_objectID": "2E467208-065B-4332-AEEC-BF47F4A14282",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -529,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "285E1DE5-AE8D-4213-8D6E-0D437885668D"
+    },
+    {
+      "class": "artboard",
+      "id": "9F4960FD-72A5-4217-AFBC-1762D21F0A5A"
+    },
+    {
+      "class": "artboard",
+      "id": "B75D8FD3-83D4-4207-953B-64C14D87160B"
+    },
+    {
+      "class": "artboard",
+      "id": "5E204270-03BD-4FB5-8A47-1267729F2BB9"
+    },
+    {
+      "class": "artboard",
+      "id": "A74A027C-041D-4F1C-B45A-F38BAA2C8626"
+    },
+    {
+      "class": "artboard",
+      "id": "E189C4F8-239E-42A2-A0BD-1F7C59ED06A3"
+    },
+    {
+      "class": "artboard",
+      "id": "4FECCA58-7F88-40FF-9FEC-024E87242842"
+    },
+    {
+      "class": "artboard",
+      "id": "CE1F21E8-C00F-4395-9E68-40D25457854B"
+    },
+    {
+      "class": "artboard",
+      "id": "85CE759A-F6B9-4281-82F2-6100A812B178"
+    },
+    {
+      "class": "artboard",
+      "id": "2BBA727D-A547-4290-9E13-B910BC8CA061"
+    },
+    {
+      "class": "artboard",
+      "id": "F742334F-0AB3-4834-BD7F-D8ED970640A7"
+    },
+    {
+      "class": "artboard",
+      "id": "C2C68B60-EB18-419E-B2BB-4218095FB21A"
+    },
+    {
+      "class": "artboard",
+      "id": "ED9EBC4B-419C-4078-9023-88FAB8CF5933"
+    },
+    {
+      "class": "artboard",
+      "id": "0C593699-71B0-4C29-AF16-4DD5160C2F99"
+    },
+    {
+      "class": "artboard",
+      "id": "99BDC86B-BA31-46C7-AD20-2A45C790E246"
+    },
+    {
+      "class": "artboard",
+      "id": "3926105B-A485-40B4-A2E8-700086D54445"
+    },
+    {
+      "class": "artboard",
+      "id": "07FBE9D8-AC0F-4F04-A3B9-F536B879B288"
+    },
+    {
+      "class": "artboard",
+      "id": "6A659F5B-6B4C-43D5-A315-FAD5DD87046B"
+    },
+    {
+      "class": "artboard",
+      "id": "F60DF27D-BF7C-483B-9421-00EF4146EEDD"
+    },
+    {
+      "class": "artboard",
+      "id": "99E8436A-ACCF-42A7-8A29-C4D70F455F7E"
+    },
+    {
+      "class": "artboard",
+      "id": "98E2D5D1-5CFE-43C5-B711-AF45328A150E"
+    },
+    {
+      "class": "artboard",
+      "id": "9B7C0E53-87CA-4C14-8EC8-CFD12F900ED4"
+    },
+    {
+      "class": "artboard",
+      "id": "F80F975F-79C3-4F65-AD6E-8A73AA58D346"
+    },
+    {
+      "class": "artboard",
+      "id": "28978F5F-C391-483D-9A98-B58C195F3F88"
+    },
+    {
+      "class": "artboard",
+      "id": "2A9D60AD-41B0-4317-AC28-12DCF143E668"
+    },
+    {
+      "class": "artboard",
+      "id": "2D16A6D1-CE82-477C-9B8F-D439A4E57FAB"
+    },
+    {
+      "class": "artboard",
+      "id": "7993173D-9CED-490A-BE7D-C4DB7B6A5786"
+    },
+    {
+      "class": "artboard",
+      "id": "00D51233-83E2-4888-BB8C-B93622FA9041"
+    },
+    {
+      "class": "artboard",
+      "id": "495C0609-5C0E-4B1A-BDD3-8B385921A2A7"
+    }
+  ],
+  "name": "乐迪智能音箱（Demo）",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -346,
+    "guides": [
+    ]
+  }
+}

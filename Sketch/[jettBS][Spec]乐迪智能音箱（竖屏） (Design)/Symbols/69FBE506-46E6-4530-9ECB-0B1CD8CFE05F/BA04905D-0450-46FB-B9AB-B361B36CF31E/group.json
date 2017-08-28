@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "BA04905D-0450-46FB-B9AB-B361B36CF31E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C7F476AC-D006-4FF0-BB07-B21C8D9D0A98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A74A19FF-A27B-4828-82E4-EB8548BD47B8"
+    },
+    {
+      "class": "group",
+      "id": "E5E7A382-751E-458F-BB16-BEB6DFC865C0"
+    }
+  ],
+  "name": "Table Views / Cell / Avatar - Description",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

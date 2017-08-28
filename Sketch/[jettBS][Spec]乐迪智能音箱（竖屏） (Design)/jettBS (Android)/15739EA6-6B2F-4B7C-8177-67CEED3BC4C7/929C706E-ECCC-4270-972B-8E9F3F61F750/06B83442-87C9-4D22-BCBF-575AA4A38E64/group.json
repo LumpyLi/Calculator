@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "06B83442-87C9-4D22-BCBF-575AA4A38E64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 128,
+    "width": 800,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B2179B47-AC13-4859-AA08-94DDA7A306E0"
+    },
+    {
+      "class": "text",
+      "id": "8ED9C24F-8350-448D-8074-C93A0678CEAA"
+    },
+    {
+      "class": "text",
+      "id": "DB0FC12D-D511-4E35-8FCE-879E6080CD6B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "436D437F-552A-4162-9028-2D5A9CB50450"
+    }
+  ],
+  "name": "Navigation Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "483BEFE9-71DF-45C6-B010-B37BB1C50415"
+    }
+  }
+}

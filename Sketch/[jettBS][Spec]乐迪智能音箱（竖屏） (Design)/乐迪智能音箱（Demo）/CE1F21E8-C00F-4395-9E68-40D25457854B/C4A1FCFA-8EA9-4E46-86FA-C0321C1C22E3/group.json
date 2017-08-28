@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C4A1FCFA-8EA9-4E46-86FA-C0321C1C22E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 300,
+    "x": 422,
+    "y": 1040
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C6414BA5-1426-417A-9EAD-7C0F4ED260CD"
+    },
+    {
+      "class": "text",
+      "id": "4C5B7BB9-B75A-46C6-B2FC-4703C560DF79"
+    }
+  ],
+  "name": "Button - Discover",
+  "nameIsFixed": true,
+  "resizingConstraint": 37,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "C4A1FCFA-8EA9-4E46-86FA-C0321C1C22E3"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "C4A1FCFA-8EA9-4E46-86FA-C0321C1C22E3"
+    }
+  }
+}

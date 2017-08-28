@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "E08C6C77-7358-406E-899A-CAF23749005A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 480,
+    "width": 1160,
+    "x": 60,
+    "y": 160
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "52D9F9D1-3B2C-4894-85A8-5F9E484FB413"
+    },
+    {
+      "class": "bitmap",
+      "id": "6926D783-423A-43D4-8DB1-3E3E7644C7B4"
+    },
+    {
+      "class": "bitmap",
+      "id": "F1D1C68A-22EC-4AFF-AB48-536DE2298731"
+    }
+  ],
+  "name": "Super Wings",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "A117EB5E-111F-4A6D-9EF4-912428B61B2B"
+    }
+  }
+}

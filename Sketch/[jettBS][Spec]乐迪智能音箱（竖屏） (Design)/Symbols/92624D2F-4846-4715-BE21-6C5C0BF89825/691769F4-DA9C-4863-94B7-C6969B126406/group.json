@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "691769F4-DA9C-4863-94B7-C6969B126406",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 453,
+    "width": 359,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F8C40636-EFC6-4565-9F8D-E353E4B2D5AF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14550FB5-D071-4529-8DB5-21CE3535CE6B"
+    },
+    {
+      "class": "group",
+      "id": "28B3F48C-D04A-4473-BBC2-89ED20078343"
+    },
+    {
+      "class": "group",
+      "id": "F9D22AD6-AA58-4940-A9D6-E49B6EFA336B"
+    },
+    {
+      "class": "group",
+      "id": "C7814934-70F2-4A12-BDE4-821C9450A84A"
+    }
+  ],
+  "name": "Views / Activity View / Activity View",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

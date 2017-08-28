@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "28E15816-4E1C-40CC-956E-C66EC8D57316",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 33,
+    "width": 33,
+    "x": 28,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "96B93FCA-689E-4C45-8F9D-B6B7D0568904"
+    },
+    {
+      "class": "shapePath",
+      "id": "61AA05B3-872A-4ED9-85B3-9E0A0F39693E"
+    },
+    {
+      "class": "shapePath",
+      "id": "1DDCA3EA-B145-4158-B40F-036B52E98777"
+    },
+    {
+      "class": "shapePath",
+      "id": "FDE3FC0D-7CB9-49A5-ABDE-1B3A513A4C16"
+    }
+  ],
+  "name": "Joke",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "E76B7A3C-DAB2-4A96-8682-6C6D849AB7CD"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "E76B7A3C-DAB2-4A96-8682-6C6D849AB7CD"
+    }
+  },
+  "windingRule": 1
+}

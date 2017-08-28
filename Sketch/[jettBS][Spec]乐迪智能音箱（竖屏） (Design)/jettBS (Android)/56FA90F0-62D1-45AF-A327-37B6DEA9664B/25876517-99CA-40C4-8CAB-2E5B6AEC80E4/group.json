@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "25876517-99CA-40C4-8CAB-2E5B6AEC80E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 800,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BCD6F513-DE5B-4F69-A4F4-AD8C1E43244C"
+    },
+    {
+      "class": "group",
+      "id": "034E3A19-A8CE-4002-81E8-0B94B2EF2279"
+    },
+    {
+      "class": "text",
+      "id": "F32CC0C9-5B0D-4B30-B2B8-73AC33E4A0CC"
+    },
+    {
+      "class": "text",
+      "id": "28A4A015-F2E0-425E-98AF-CA7A8074E206"
+    },
+    {
+      "class": "group",
+      "id": "F8C264F0-D9AA-4DA5-BA9F-C6C136FFDFFD"
+    }
+  ],
+  "name": "Wireframe",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "25876517-99CA-40C4-8CAB-2E5B6AEC80E4"
+    }
+  }
+}

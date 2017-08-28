@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "3A2F0B21-622E-4D3C-9149-32879647A45C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 278,
+    "width": 267,
+    "x": 265,
+    "y": 540
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9075C081-D01A-4390-9573-839A852EFA3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCFC3195-68FA-458D-94E3-E22D4443BBA1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF7775C4-A09B-4CBD-927B-0556E9BC0B3C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3845D044-647E-4EEE-8A30-E2CF9C663F37"
+    },
+    {
+      "class": "group",
+      "id": "B0B94CB2-655A-43B2-AB55-FB2B614BA99F"
+    }
+  ],
+  "name": "Earth",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "3A2F0B21-622E-4D3C-9149-32879647A45C"
+    }
+  }
+}

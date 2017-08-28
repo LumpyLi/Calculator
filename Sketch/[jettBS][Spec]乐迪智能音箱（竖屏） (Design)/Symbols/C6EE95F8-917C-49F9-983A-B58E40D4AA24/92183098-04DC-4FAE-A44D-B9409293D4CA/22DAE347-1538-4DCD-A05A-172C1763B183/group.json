@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "22DAE347-1538-4DCD-A05A-172C1763B183",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 23.45901639344262,
+    "width": 27,
+    "x": 1,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CA529E59-4602-401D-92AA-4F97F4A0A129"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A6925454-B26E-4180-81EF-34E2BD2B6F49"
+    }
+  ],
+  "name": "Cloud - Upload",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

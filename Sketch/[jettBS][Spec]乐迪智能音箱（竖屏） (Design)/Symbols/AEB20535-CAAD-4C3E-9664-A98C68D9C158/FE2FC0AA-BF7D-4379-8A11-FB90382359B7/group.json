@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "FE2FC0AA-BF7D-4379-8A11-FB90382359B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 140,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8DA2D7A9-E63B-42F4-A0D9-7942D781DA3B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CE3E0D0-CDAF-4E9E-92D8-09405209D70F"
+    },
+    {
+      "class": "text",
+      "id": "E8225DAA-50CC-4A20-B680-8ED89C6931A7"
+    },
+    {
+      "class": "text",
+      "id": "DAA663C0-9965-4267-8656-670DDA735A17"
+    }
+  ],
+  "name": "Views / Alert / 2 Buttons With Description",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

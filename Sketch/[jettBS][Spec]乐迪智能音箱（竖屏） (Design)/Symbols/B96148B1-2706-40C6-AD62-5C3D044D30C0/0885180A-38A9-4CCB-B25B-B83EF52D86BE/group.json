@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "0885180A-38A9-4CCB-B25B-B83EF52D86BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 219,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "56B2EC9E-7FDE-4252-A22D-1ED79F540A96"
+    },
+    {
+      "class": "group",
+      "id": "02FC2FD5-1819-4AAA-989D-99F01FA4D64B"
+    },
+    {
+      "class": "group",
+      "id": "7243B283-658A-4F8F-83C3-8345C0835BBA"
+    },
+    {
+      "class": "group",
+      "id": "5A70C2A8-D8D9-4079-B859-2E5009EA797F"
+    }
+  ],
+  "name": "Controls / Edit Menu / 3 Actions",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

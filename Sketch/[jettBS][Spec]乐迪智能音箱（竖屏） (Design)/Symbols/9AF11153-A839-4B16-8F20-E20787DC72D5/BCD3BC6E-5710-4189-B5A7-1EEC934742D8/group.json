@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "BCD3BC6E-5710-4189-B5A7-1EEC934742D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 122,
+    "width": 355,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F4A4FBED-25BA-455D-B4E5-A98283FF3705"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BACE5473-7A1F-4268-B088-AFB6446740CA"
+    }
+  ],
+  "name": "Views / Action Sheet / 1 Button With Cancel Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

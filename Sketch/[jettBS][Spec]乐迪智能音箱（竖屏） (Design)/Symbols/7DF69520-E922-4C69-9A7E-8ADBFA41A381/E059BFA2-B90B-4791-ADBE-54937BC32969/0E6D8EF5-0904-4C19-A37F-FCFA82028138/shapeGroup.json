@@ -1,0 +1,53 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "0E6D8EF5-0904-4C19-A37F-FCFA82028138",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24.01091145654763,
+    "width": 25,
+    "x": 2,
+    "y": 2.990000103307466
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C5CFF418-E10E-44CF-9D06-A2EA80D32EE7"
+    },
+    {
+      "class": "shapePath",
+      "id": "1AB1B956-6266-4034-99E2-12609DFDBC48"
+    },
+    {
+      "class": "shapePath",
+      "id": "D11EC407-B791-4675-962F-0972EB82B4EF"
+    }
+  ],
+  "name": "Bookmarks",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D85718A9-6A4E-495F-A484-FF9713AB3B9F"
+  },
+  "windingRule": 1
+}

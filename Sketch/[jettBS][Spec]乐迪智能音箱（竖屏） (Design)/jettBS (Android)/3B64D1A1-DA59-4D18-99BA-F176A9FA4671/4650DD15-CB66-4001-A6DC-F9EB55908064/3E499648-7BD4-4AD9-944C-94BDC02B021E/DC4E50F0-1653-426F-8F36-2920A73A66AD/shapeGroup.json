@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "DC4E50F0-1653-426F-8F36-2920A73A66AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 28.875,
+    "width": 60.19999999999999,
+    "x": 40.59999999999999,
+    "y": 30.25
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0E863929-90DC-48C1-908A-795AB220FC7B"
+    },
+    {
+      "class": "shapePath",
+      "id": "B40FDAC3-8CC3-49AD-B008-9B2AF791A39B"
+    },
+    {
+      "class": "shapePath",
+      "id": "337B2C03-105E-4E33-9FFD-8ECD630DAC92"
+    }
+  ],
+  "name": "Jett",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6666666666666666,
+          "green": 0.6666666666666666,
+          "red": 0.6666666666666666
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "C9A51B35-F83C-4386-9299-8E46F5448983"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "C9A51B35-F83C-4386-9299-8E46F5448983"
+    }
+  },
+  "windingRule": 1
+}

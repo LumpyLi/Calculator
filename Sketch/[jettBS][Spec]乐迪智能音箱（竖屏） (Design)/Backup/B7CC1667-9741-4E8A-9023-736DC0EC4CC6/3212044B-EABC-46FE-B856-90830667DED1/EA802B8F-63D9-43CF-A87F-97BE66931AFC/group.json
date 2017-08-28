@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "do_objectID": "EA802B8F-63D9-43CF-A87F-97BE66931AFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 800,
+    "x": 0,
+    "y": 1071
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AB95CD98-A4F3-413A-AE76-812596E9323F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E8B261B7-3440-4627-842B-E433AE35A608"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE72FB3A-90FB-4EF1-89F8-F42308C0DFB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93627D29-7B71-4AFF-86EC-0C5D796CB6C2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3307264C-245E-4F28-B9EF-6778A34A00F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C3B66097-4424-4446-902A-BD74CDCD1B04"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43B7FA04-1199-4C7A-90D1-18395F99DE72"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD979EEB-D5CC-49B7-8136-6289672F9123"
+    }
+  ],
+  "name": "Iceberg",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "9782A9EE-4641-48A4-9795-1E0663664C45"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "9782A9EE-4641-48A4-9795-1E0663664C45"
+    }
+  }
+}

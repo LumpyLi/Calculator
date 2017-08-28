@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "7930B00F-11F1-4538-AC6E-DD808EC0A2AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D2560891-A449-464C-983D-42426F865DE9"
+    },
+    {
+      "class": "group",
+      "id": "A4EA6271-3AF1-4EB5-ABA4-1E4B9800A0DC"
+    }
+  ],
+  "name": "Bars / Search Bar / As Navigation Bar / Dictation Light - Focus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "93B1CDFE-C4E5-4AE8-976A-4F1925058142",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 88,
+    "width": 88,
+    "x": 188,
+    "y": 1152
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "79FFD5BE-73D3-4B7D-9151-C546060CC1E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "496C0E79-DEC5-49DA-B346-CAB1DD0FBC62"
+    }
+  ],
+  "name": "Story Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "F34B3803-74A9-415C-945F-2FDB154349D6"
+    },
+    "com.sketchplugins.wechat.selectionDom2": {
+      "selection2": "F34B3803-74A9-415C-945F-2FDB154349D6"
+    }
+  }
+}

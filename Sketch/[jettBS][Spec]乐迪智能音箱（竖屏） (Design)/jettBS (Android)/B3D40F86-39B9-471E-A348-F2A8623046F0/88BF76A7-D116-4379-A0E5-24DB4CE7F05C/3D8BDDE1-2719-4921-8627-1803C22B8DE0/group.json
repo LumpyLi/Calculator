@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "3D8BDDE1-2719-4921-8627-1803C22B8DE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 360,
+    "width": 688,
+    "x": 556,
+    "y": 187
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AB36E86B-907D-47AA-91F0-9C21ABBD6159"
+    },
+    {
+      "class": "text",
+      "id": "E50D24A5-D8CC-49AF-91E2-6B29E8A0DB6F"
+    },
+    {
+      "class": "group",
+      "id": "73FA16F5-3C3F-4530-AD2B-5CB131770B31"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20C2CD9C-D5FF-4FD5-8E19-3425722B4C0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "77213FD7-8203-4B62-BE9A-1D786EB85F99"
+    }
+  ],
+  "name": "Maps",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "3D8BDDE1-2719-4921-8627-1803C22B8DE0"
+    }
+  }
+}

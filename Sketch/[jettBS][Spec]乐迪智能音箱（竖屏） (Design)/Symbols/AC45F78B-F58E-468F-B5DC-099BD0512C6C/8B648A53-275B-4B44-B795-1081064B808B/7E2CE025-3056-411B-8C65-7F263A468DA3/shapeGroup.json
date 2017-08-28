@@ -1,0 +1,57 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "7E2CE025-3056-411B-8C65-7F263A468DA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 20.5,
+    "x": 4,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F77A9013-2B01-4183-B54E-285436E284AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "E9FDDB49-BE4A-4F58-8C04-3727AD307FC1"
+    },
+    {
+      "class": "shapePath",
+      "id": "723F507D-E757-4FF7-8C2D-DF788D7BBDB3"
+    },
+    {
+      "class": "shapePath",
+      "id": "A80220AE-1A2C-4D05-A5A7-9FA124CC0C4B"
+    }
+  ],
+  "name": "Folder",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D85718A9-6A4E-495F-A484-FF9713AB3B9F"
+  },
+  "windingRule": 1
+}

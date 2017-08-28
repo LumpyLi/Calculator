@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "931C72FB-0F2E-4714-8976-E0901632C547",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 160,
+    "width": 1000,
+    "x": 281,
+    "y": 320
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8B135883-35D8-4EE9-B0DE-E2ECCB381864"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "96FBE264-BDD7-4F45-B676-B604D9E87DBC"
+    },
+    {
+      "class": "group",
+      "id": "FA6A0046-412A-46CE-8718-F6AF86D27767"
+    }
+  ],
+  "name": "Flight Way",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "931C72FB-0F2E-4714-8976-E0901632C547"
+    }
+  }
+}

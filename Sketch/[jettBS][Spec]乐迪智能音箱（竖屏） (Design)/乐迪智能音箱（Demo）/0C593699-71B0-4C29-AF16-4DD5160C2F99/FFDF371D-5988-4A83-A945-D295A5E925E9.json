@@ -1,0 +1,52 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGamtYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiouNTg8REVGR0hMUFhbX2NkZlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA2Vs6FFlgP2Rz04t0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAGIAZV05TQ29sb3JfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7UIyQlCiYnKClVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC42NjY2NjY2NjY3IDAuNjY2NjY2NjY2NyAwLjY2NjY2NjY2NjcAEAGACYAL0isKLC1UTlNJRBABgArSLzAxMlokY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIzNFxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLzA2N1dOU0NvbG9yojY00go5OjtfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKPUBDoj4/gA6AD6JBQoAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlECJfEBJQaW5nRmFuZ1NDLVJlZ3VsYXLSLzBJSl8QE05TTXV0YWJsZURpY3Rpb25hcnmjSUs0XE5TRGljdGlvbmFyedIvME1OXxAQTlNGb250RGVzY3JpcHRvcqJPNF8QEE5TRm9udERlc2NyaXB0b3LUUVJTClRVVldaTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3OAABACgBWAF9ISCllaoIAW0i8wXF1eTlNNdXRhYmxlQXJyYXmjXF40V05TQXJyYXnSLzBgYV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2BiNF8QEE5TUGFyYWdyYXBoU3R5bGUjP9v6JjbLbijSLzBLZaJLNNIvMGdoXxASTlNBdHRyaWJ1dGVkU3RyaW5nomk0XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WxtVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAJAAlwCfAKoArwCxALMAtQC3ALwAvgDAAMIAxADGAM4A8AEDAQoBEwEZASYBOwFlAWcBaQFrAXABdQF3AXkBfgGJAZIBnwGiAa8BuAG9AcUByAHNAeoB7AHuAfUB+AH6AfwB/wIBAgMCBQIbAjECMwJIAk0CYwJnAnQCeQKMAo8CogKrArYCwgLPAtEC0wLVAtcC3ALdAt8C5ALzAvcC/wMEAx4DIgM1Az4DQwNGA0sDYANjA3gDigONA5IAAAAAAAACAQAAAAAAAABuAAAAAAAAAAAAAAAAAAADlA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "FFDF371D-5988-4A83-A945-D295A5E925E9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 173,
+    "x": 313.5,
+    "y": 560
+  },
+  "glyphBounds": "{{2, 8}, {167, 32}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "注入能量中",
+  "nameIsFixed": false,
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "3592C11D-8FB9-409F-B98B-0584B051C46A"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "FFDF371D-5988-4A83-A945-D295A5E925E9"
+    }
+  }
+}
